@@ -1,3 +1,8 @@
+A TCP Chat Server built using Python, Socket Programming, and Threading that allows multiple users to communicate through a centralized server.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+How to use the Chat Server:
+
 Open a new terminal at the project folder and start the server using the following command:
 'python3 server.py'
 ![Starting Server](https://github.com/quinhebert/TCP-chat-server/blob/master/images/start%20server.png?raw=true)
